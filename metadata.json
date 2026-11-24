@@ -1,0 +1,6 @@
+{
+  "name": "Pixel World",
+  "description": "PIXEL WORLD: WAR SANDBOX — 16-bit top-down living world & modern war god simulator with procedural terrain, autonomous civilizations, living citizens, air raids, weather, and save slots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
